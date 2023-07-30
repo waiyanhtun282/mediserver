@@ -1,0 +1,9 @@
+{
+  "name": "47PasswordEcodedDecoded",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0"
+  }
+}
